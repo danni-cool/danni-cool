@@ -1,3 +1,3 @@
 ### CDN Category
 
-cdn address: https://cdn.jsdelivr.net/gh/danni-cool/danni.cool@cdn/image/
+cdn address example: https://cdn.jsdelivr.net/gh/danni-cool/danni-cool@cdn/image/ga-effect-screenshot.png
