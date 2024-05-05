@@ -13,5 +13,5 @@
 [https://danni.cool](https://danni.cool)
 
 ## Support me
-[https://danni.cool/support-me](https://danni.cool/support-me)
+[Donate / Sponsor](https://danni.cool/about/#Open-source-works)
 
