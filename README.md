@@ -1,7 +1,5 @@
 ### 👋 Hi there, I'm Daniel
 
->🌴I'm currently on my gap month charging battery 🔌⚡. 
-
 ![Daniel's github activity](https://github-readme-stats.vercel.app/api?username=danni-cool&theme=onedark)
 
 - 🔨 Skilled in JavaScript / Vue / Node.js
