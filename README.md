@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Daniel
 
-| <a href="https://github.com/danni-cool/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=danni-cool&show_icons=true&include_all_commits=true&hide_border=true" alt="danni-cool's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danni-cool&layout=compact&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=danni-cool&show_icons=true&include_all_commits=true&hide_border=true" alt="danni-cool's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danni-cool&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
 
 
