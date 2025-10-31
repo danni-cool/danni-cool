@@ -4,7 +4,7 @@
 | ------------- | ------------- |
 
 
-- 🔨 Skilled in JavaScript / Vue / Node.js
+- 🔨 Skilled in JavaScript / Vue / Node.js, and a golang beginer.
 - ❤  Projects that are enjoyable, practical, and make a difference in lives catch my attention.
 - 📒 Focus on becoming a full-stack engineer and studying the balance between self-growth, work, and life.
 - 👏 It's welcome to bring me any new ideas on those topics above.👆
